@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello all, welcome to my GitHub repository! I am currently a Web Development student at Red Rocks Community College in Lakewood, CO. 
+Hello all, welcome to my GitHub repository! I am currently a Cybersecurity and Secure Software Development student on the Coursera platform. 
